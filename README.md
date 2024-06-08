@@ -21,5 +21,5 @@ Footnote:
 background asset used is from unity asset store 
 https://assetstore.unity.com/packages/2d/textures-materials/nature/free-pixel-art-forest-133112
 
-helicopter model : i used a 3d unity low poly model and convert it into a 2d sprite using GIMP.
+helicopter model : i used a 3d unity low poly 3d model and converted it into a 2d sprite using GIMP.
 https://assetstore.unity.com/packages/3d/vehicles/air/rts-helicopter-low-poly-264684
