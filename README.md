@@ -1,10 +1,11 @@
-**HELICOPTER HORROR**  - game built using unity engine
-Welcome to an exhilarating adventure in our Flappy Bird-inspired game, featuring a helicopter navigating through a lush jungle environment.
+**HELICOPTER HORROR**  - game built using unity engine<br>
+
+Welcome to an exhilarating adventure in our Flappy Bird-inspired game, featuring a helicopter navigating through a lush jungle environment.<br>
 Your mission is to maneuver the helicopter skillfully to avoid various otherworldly obstacles.
 
-**Objective:** Guide the helicopter through a series of challenging obstacles without colliding with them or straying out of the visible area.
-**Scoring:** Earn points by successfully passing through obstacles. The more obstacles you pass, the higher your score.
-**Game Over:** The game ends if the helicopter touches any obstacles or moves out of the screen view.
+**Objective:** Guide the helicopter through a series of challenging obstacles without colliding with them or straying out of the visible area. <br>
+**Scoring:** Earn points by successfully passing through obstacles. The more obstacles you pass, the higher your score.<br>
+**Game Over:** The game ends if the helicopter touches any obstacles or moves out of the screen view.<br>
 
 Some in Game screenshots from Windows build:
 
